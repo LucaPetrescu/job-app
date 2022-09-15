@@ -1,0 +1,11 @@
+.title{
+    padding: 10px;
+    border: 2px solid #2d3b55;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.user-applications-btn{
+    padding: 10px;
+}

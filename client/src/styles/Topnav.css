@@ -1,0 +1,30 @@
+.topnav{
+    background-color: #2d3b55;
+    padding: 10px;
+    
+}
+
+.applications-button{
+    border: none;
+    background-color: #2d3b55;
+    padding: 10px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    border-radius: 10px;
+    /* float: right; */
+}
+
+.topnav .log-out-button:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav .applications-button:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.welcome-message{
+    color: white;
+    left: 100px;
+}
